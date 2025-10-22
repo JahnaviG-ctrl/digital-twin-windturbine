@@ -28,5 +28,9 @@ This repository contains Python-based prototypes for a predictive maintenance di
 - Supports academic research and skill development aligned with renewable energy graduate programs.
 
 ---
+![Digital Twin Basic Prototype Graph](digital_twin_plot.png)
+![Enhanced Digital Twin Prediction Graph](enhanced_digital_twin_plot.png)
 
+
+---
 Developed for admission and research alignment with Hochschule Stralsund, Institute of Renewable Energy Systems (IRES).
